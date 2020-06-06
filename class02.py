@@ -7,7 +7,7 @@ class Student:
         print((math +english)/2)
 
 a001 = Student("sato")
-#a001.name = "sato"
+#a001.name = "kudo"
 print(a001.name)
 
 a002 = Student("tanaka")
